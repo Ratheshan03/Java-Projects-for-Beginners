@@ -59,16 +59,16 @@ public class SimpleGame {
 	 * - If input is 7, print and return 7.
 	 * - If input is 0, print and return 0.
 	 */
-	public static int digitsSum(int input){
-        if (input < 10){
-           return input; 
+	public static int digitsSum(int x){
+        if (x < 10){
+           return x; 
         } 
         int sum = 0;
         
-        while (input > 0)
+        while (x > 0)
         {
-            sum += input % 10;
-            input = input / 10;
+            sum += x % 10;
+            x = x / 10;
         }
         return sum;
 	}
