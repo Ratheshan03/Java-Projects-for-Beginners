@@ -33,20 +33,20 @@ public class SimpleGame {
 	 *   If input seconds is -3214, likewise print and return: -1:-1:-1
 	 */
 	public static String convertTime(int seconds){
-        String result;
+        String res;
         if (seconds < 0){
-            result = (-1 + ":" + -1 + ":" + -1);
+            res = (-1 + ":" + -1 + ":" + -1);
         }else if(seconds == 0){
-            result = (0 + ":" + 0 + ":" + 0);
+            res = (0 + ":" + 0 + ":" + 0);
         }else{
             int p1 = seconds % 60;
             int p2 = seconds / 60;
             int p3 = p2 % 60;
             p2 = p2 / 60;
-            result = (p2 + ":" + p3 + ":" + p1);
+            res = (p2 + ":" + p3 + ":" + p1);
         }
         
-        return result;
+        return res;
 	}
 
 	/**
