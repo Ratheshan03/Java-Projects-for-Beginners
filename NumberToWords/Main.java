@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Mains {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
         System.out.println("Enter a number: ");
 
-        int num = input.nextInt();
+        int num = in.nextInt();
         Float number = (float)num;
         int cent = (int)Math.floor(( number - num ) * 100.0f );
 
