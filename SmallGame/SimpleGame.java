@@ -77,14 +77,14 @@ public class SimpleGame {
 		// Create an instance of the SimpleGame class.
 		// TODO: Your code goes here
 		
-		Scanner sc = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		
 		// Ask the user which game to play.
         System.out.println("|--------Lets Play a game-------|");
         System.out.println("Options \n 1 - Seconds to 24hr time \n 2 - Adding numbers ");
 		System.out.println("Select the game: (1) or (2) ");
 		// Then ask the user for input and pass the value to the corresponding method.
-        int input = sc.nextInt();
+        int input = scanner.nextInt();
 		
 		// If the user enters 1, ask for an integer to convert and call the convertTime method.
 		// If the user enters 2, ask for an integer and call the digitsSum method.
@@ -92,15 +92,15 @@ public class SimpleGame {
 		// TODO: Your code goes here
 		if (input == 1){
             System.out.println("Enter the seconds: ");
-            int im = sc.nextInt();
+            int im = scanner.nextInt();
             System.out.println(convertTime(im));
         }else if (input == 2){
             System.out.println("Enter the number: ");
-            int in = sc.nextInt();
+            int in = scanner.nextInt();
             System.out.println(digitsSum(in));
         }else{
             System.out.println("You have entered a incorrect option!");
         }
-		sc.close();
+		scanner.close();
 	}	
 }
