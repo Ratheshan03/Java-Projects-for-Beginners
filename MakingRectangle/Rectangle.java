@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class Rectangle {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
         System.out.print("Enter the length: ");
-        int row = input.nextInt();
+        int row = in.nextInt();
         System.out.print("Enter the Width: ");
-        int col = input.nextInt();
+        int col = in.nextInt();
         print_shapes(row, col);
     }
 
