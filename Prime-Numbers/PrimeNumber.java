@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class PrimeNumber {
     public static void main(String[] args){
-        Scanner in = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         for (int x=1; x<500 ;x++){
             int count =0;
             for ( int y=x; y>=1;y--){
@@ -25,7 +25,7 @@ public class PrimeNumber {
         }
 
         System.out.println("Enter a number: ");
-        int num = in.nextInt();
+        int num = input.nextInt();
         System.out.println(isPrime(num));
     }
         
