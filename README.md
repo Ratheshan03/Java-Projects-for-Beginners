@@ -2,9 +2,7 @@
 Sharpen your Java skills by building projects. It has well structured with comments for explainations and it is very easy to understand every bit of code.
 
 #### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
-# .
-# .
-# .
+
 ### Steps to contribute
 
 ## 👉 Fork this repository
@@ -21,6 +19,6 @@ Sharpen your Java skills by building projects. It has well structured with comme
 
 ## 👉 Leave a ⭐ if you liked working on the project.
 
-I'm happy to merge awesome portfolio/Applications to this repository!
+### I'm happy to merge awesome portfolio/Applications to this repository!
 
 ⏩ This Repo is Licensed under the [MIT License](LICENSE).
