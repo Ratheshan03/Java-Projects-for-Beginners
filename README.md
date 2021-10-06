@@ -1,4 +1,16 @@
-# Java-Projects-for-Beginners
+# Java-Projects-for-Beginners 🚀
+.
+.
+
+
+
+
+### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
+### Thankyou.
+.
+.
+.
+
 
 ### Steps to contribute
 
@@ -18,3 +30,4 @@
 
 We're happy to merge awesome portfolio to this repository!
 
+⏩ This Repo is Licensed under the [MIT License](LICENSE).
