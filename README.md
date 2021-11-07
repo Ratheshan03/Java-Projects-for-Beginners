@@ -1,4 +1,4 @@
-# Java-Projects-for-Beginners 🚀
+# Java Projects for Beginners 🚀
 Sharpen your Java skills by building projects. It has well structured with comments for explainations and it is very easy to understand every bit of code.
 
 #### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
