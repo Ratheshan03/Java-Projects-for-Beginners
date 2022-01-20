@@ -18,5 +18,5 @@ Sharpen your Java skills by building projects. It has well structured with comme
 #### 👉 Leave a ⭐ if you liked working on the project.
 
 ##### I'm happy to merge awesome programs and applications to this repository!
-'''''''''''
-⏩ This Repo is Licensed under the [MIT License](LICENSE).
+....................................................................................................................
+##### ⏩ This Repo is Licensed under the [MIT License](LICENSE)
