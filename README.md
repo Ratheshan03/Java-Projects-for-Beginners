@@ -6,8 +6,8 @@ Sharpen your Java skills by building projects. It has well structured with comme
 
 # Steps to contribute
 
-#### 👉 Fork this repository
-#### 👉 Clone the repository
+#### 👉 Fork this Repository
+#### 👉 Clone the Repository
 #### 👉 Create a branch `projectname-username-branch`
 #### 👉 Add your projects in a new directory, the name of directory should be your `ProjectName/USERNAME`
 #### 👉 Attach some SCREENSHOTS or GIF of your working project in the description _❗Important❗_.
@@ -18,7 +18,5 @@ Sharpen your Java skills by building projects. It has well structured with comme
 #### 👉 Leave a ⭐ if you liked working on the project.
 
 ##### I'm happy to merge awesome programs and applications to this repository!
-
-
-
-⏩ This Repo is Licensed under the [MIT License](LICENSE).
+'''''''''''
+### ⏩ This Repo is Licensed under the [MIT License](LICENSE).
