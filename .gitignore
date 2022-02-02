@@ -1,0 +1,6 @@
+*.sublime-workspace
+*.log
+*.nupkg
+Test.xml
+._p3
+.idea/

@@ -1,7 +1,7 @@
-// A prime number is a number that is evenly divisible only by itself and 
+// A prime number is a number that is evenly divisible only by itself and
 // 1. For example, the number 5 is prime because it can be evenly divided only
-// by 1 and 5. The number 6, however, is not prime because it can be divided 
-// evenly by 1, 2, 4, and 6. Write a method named isPrime, which takes an integer
+// by 1 and 5. The number 6, however, is not prime because it can be divided
+// evenly by 1, 2, 3, and 6. Write a method named isPrime, which takes an integer
 // from the user and returns true if the integer is a prime number, or false otherwise.
 // Also write main method that displays prime numbers between 1 to 500.
 
@@ -14,7 +14,7 @@ public class PrimeNumber {
             int count =0;
             for ( int y=x; y>=1;y--){
                 if (x%y==0){
-                count +=1;
+                    count +=1;
                 }
             }
 
@@ -28,7 +28,7 @@ public class PrimeNumber {
         int num = input.nextInt();
         System.out.println(isPrime(num));
     }
-        
+
     public static boolean isPrime(int a ){
         for (int x = 2; x<a;x++){
             if (a%x==0){
@@ -37,5 +37,5 @@ public class PrimeNumber {
         }
         return true;
     }
-    
+
 }
